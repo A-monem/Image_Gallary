@@ -13,6 +13,6 @@ Enjoy :)
 
 # Built With
 
-*HTML
-*CSS
-*Bootstrap 4
+* HTML
+* CSS
+* Bootstrap 4
